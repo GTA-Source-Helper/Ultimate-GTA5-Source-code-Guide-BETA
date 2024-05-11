@@ -173,7 +173,7 @@ To get a better description on what with patch does go [here](ReadMe-Files/Patch
 
 ### If you are confused, Watch this:
 
-<video src="ReadMe-Files/Build-game-binarys.mp4" width="870" height="540" controls></video>
+<video src="/ReadMe-Files/Build-game-binarys.mp4" width="870" height="540" controls></video>
 
 ### Building Shaders
 Shaders are required for the game to load (obviously), so in order to get them working we must build them, to do so:
