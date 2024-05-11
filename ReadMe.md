@@ -1,8 +1,8 @@
 <h1 align="left"> 📜 The Ultimate GTA V Source Code Build Guide </h1>
 
-![alt text](Readme-Files/Logo.png)
+![alt text](/ReadMe-Files/Logo.png)
 
-## What purpose does this guide serve, and why does it exist? 
+## What purpose does this guide serve, and why does it exist  
 
 This guide explains how to build GTA V (binaries, scripts, shaders) using the leaked source code #L189
 
@@ -34,7 +34,7 @@ It also simplifies the process and explains it so that everyone can understand.
 
 - Prebuild Shaders
 
-### All the Tools and Files that are mentioned on this guide are in the [Resurces Archiv](<BLANK>).
+### All the Tools and Files that are mentioned on this guide are in the [Resources Archive](<BLANK>).
 
 ## Tools and Preparations on the Virtual Machine    
 ### Deactivate Anti Virus
@@ -73,7 +73,7 @@ net use X: \\localhost\c$\<Path to working folder for build> /persistent:yes
 
 Example:
 
-![alt text](ReadMe-Files\X-Drive.png)
+![alt text](ReadMe-Files/X-Drive.png)
 
    1. Create the folder `X:\gta5` and copy all folders from `GTAVSP.7z\GTA V Source` into it the drive then should look like this:
 
@@ -109,7 +109,7 @@ At this point you have to decide what patch you want to use, there are 3 to choo
 
 ### ❗ You cant combine them, and every single one of them works perfectly fine on its own ❗
 
-To get a better description on what with patch does go [here](<ReadMe-Files\Patch-Explenation.md>).
+To get a better description on what with patch does go [here](ReadMe-Files/Patch-Explanation.md).
 
 
 ## 1. Basic Patches 
@@ -173,7 +173,7 @@ To get a better description on what with patch does go [here](<ReadMe-Files\Patc
 
 ### If you are confused, Watch this:
 
-<video src="ReadMe-Files\Build game binarys.mp4" width="870" height="540" controls></video>
+<video src="ReadMe-Files/Build game binarys.mp4" width="870" height="540" controls></video>
 
 ### Building Shaders
 Shaders are required for the game to load (obviously), so in order to get them working we must build them, to do so:
@@ -200,7 +200,7 @@ Backup:
 
 magnet:?xt=urn:btih:BYLBB5OGQG56R2II3W37OPOISCEZTFHU
 ```
-I recommend to use [Free Donwload Manager](<https://www.freedownloadmanager.org/de/>) to download the torrent  
+I recommend to use [Free Donwload Manager](https://www.freedownloadmanager.org/en/) to download the torrent  
 
 
 
@@ -208,15 +208,15 @@ I recommend to use [Free Donwload Manager](<https://www.freedownloadmanager.org/
 ## 🌟 Credits 
 
 ### The two guides that this guide is based on 
-1: [📜 GTA V Source Code Build Guide](<https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide>)
+1: [📜 GTA V Source Code Build Guide](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide)
 
-2: [→ GTA V - Full Build Guide ←](<https://rentry.co/build-gtav>)
+2: [→ GTA V - Full Build Guide ←](https://rentry.co/build-gtav)
 
-### Gernal help with the guide
+### General help with the guide
 
-[@yungDoom](<https://github.com/yungDoom>)
+[@yungDoom](https://github.com/yungDoom)
 
-[OceanView Discord](<https://discord.gg/hkGFqefFJm>)
+[OceanView Discord](https://discord.gg/hkGFqefFJm)
 
 ### OneDrive Link for Source Code
 
