@@ -1,6 +1,6 @@
 <h1 align="left"> 📜 The Ultimate GTA V Source Code Build Guide </h1>
 
-![alt text](ReadMe-Files\Logo.png)
+![alt text](Readme-Files/Logo.png)
 
 ## What purpose does this guide serve, and why does it exist? 
 
