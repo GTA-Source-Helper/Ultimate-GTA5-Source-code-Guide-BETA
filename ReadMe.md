@@ -176,6 +176,7 @@ To get a better description on what with patch does go [here](ReadMe-Files/Patch
 
 ### If you are confused, Watch this:
 
+https://github.com/GTA-Source-Helpe/Ultimate-GTA5-Source-code-Guide-BETA/assets/146978592/20f24012-0a5e-4ca4-b65e-985770486c09
 <video src="/ReadMe-Files/Build-game-binarys.mp4" width="870" height="540" controls></video>
 
 ### Building Shaders
